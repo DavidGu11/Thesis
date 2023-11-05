@@ -1,0 +1,3 @@
+7-22 to 7-23(6), learning rate 0.01
+7-23（7-8）, learning rate 0.001
+7-23（9-11）, learning rate 0.0001
